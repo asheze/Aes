@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dear Group members
 
 Welcome to our AES project.
@@ -36,3 +37,7 @@ can accomdate the recommended flexibility.
 Wish us all the best!
 
 Ashenafi Zena
+=======
+Aes
+===
+>>>>>>> 6f96d1f1dbc3f53aa6953bbad9381dfcd772c6c4
